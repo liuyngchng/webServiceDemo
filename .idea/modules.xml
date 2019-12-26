@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webServiceClient/webServiceClient.iml" filepath="$PROJECT_DIR$/webServiceClient/webServiceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webServiceDemo.iml" filepath="$PROJECT_DIR$/webServiceDemo.iml" />
+    </modules>
+  </component>
+</project>
