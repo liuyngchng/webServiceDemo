@@ -1,0 +1,1 @@
+A webService Created with JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2
